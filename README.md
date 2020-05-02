@@ -25,6 +25,8 @@ npm i strapi-middleware-sentry -S
     "enabled": true,
     "settings": {
       "dsn": "[YOUR-DSN]"
+      // any other Sentry configuration can come here
+      // this object will pass into Sentry.init method
     }
   }
   // ... more middleware configurations
