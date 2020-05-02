@@ -23,7 +23,7 @@ npm i strapi-middleware-sentry -S
   // ... more middleware configurations
   "sentry": {
     "enabled": true,
-    "debug": true,
+    // "debug": true, // You can use this for debugging purposes
     "settings": {
       "dsn": "[YOUR-DSN]"
     }
