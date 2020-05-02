@@ -33,7 +33,18 @@ npm i strapi-middleware-sentry -S
 }
 ```
 
-**2.** Access any of these Sentry methods on the Strapi instance
+**2.** Add it on the top of the middleware stack in the `config/middleware.json` file.
+
+```javascript
+{
+  "after": [
+    ... other middlewares,
+    "sentry"
+  ]
+}
+```
+
+**Access any of these Sentry methods on the Strapi instance**
 
 - configureScope
 - addBreadcrumb
