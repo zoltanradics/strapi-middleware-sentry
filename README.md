@@ -25,7 +25,7 @@ npm i strapi-middleware-sentry -S
     "enabled": true,
     "debug": true,
     "settings": {
-      "dsn": "https://770c06184b3c471d942484e445d41d37@o223565.ingest.sentry.io/1372816"
+      "dsn": "[YOUR-DSN]"
     }
   }
   // ... more middleware configurations
