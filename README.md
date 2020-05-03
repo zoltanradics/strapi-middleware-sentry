@@ -6,6 +6,8 @@ Check out Strapi: [https://github.com/strapi/strapi](https://github.com/strapi/s
 
 The missing Sentry middleware for Strapi. By using this third-party (not official Strapi) middleware, you can use Sentry client on your Strapi instance, therefore you can access your Sentry methods in your application. (wherever Strapi instance is available)
 
+> Please note, this plugin is in very early stage, it can happen that frequent updates will happen therefore you should try to update your npm package frequently!
+
 ### How to install?
 
 ```
