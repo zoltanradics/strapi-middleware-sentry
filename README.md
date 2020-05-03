@@ -57,3 +57,11 @@ npm i strapi-middleware-sentry -S
 ```javascript
 strapi.sentry.captureException('Oops, something terribly wrong has happened!')
 ```
+
+### Contact me if you
+
+- need help
+- want to contribute
+- just want to chat about Strapi, React or Javascript or any exciting tech
+
+Hit me up on: zoltan.radics@gmail.com
