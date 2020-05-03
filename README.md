@@ -58,6 +58,10 @@ npm i strapi-middleware-sentry -S
 strapi.sentry.captureException('Oops, something terribly wrong has happened!')
 ```
 
+### Found any issues?
+
+https://github.com/zoltanradics/strapi-middleware-sentry/issues
+
 ### Contact me if you
 
 - need help
