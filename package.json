@@ -39,6 +39,6 @@
     "@sentry/node": "^5.26.0"
   },
   "publishConfig": {
-    "registry": "https://npm.pkg.github.com/"
+    "registry": "http://registry.npmjs.org/"
   }
 }
