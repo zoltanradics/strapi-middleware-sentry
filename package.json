@@ -1,7 +1,7 @@
 {
   "name": "strapi-middleware-sentry",
   "version": "0.0.7",
-  "description": "Sentry middleware for the Strapi framework",
+  "description": "Sentry middleware for the Strapi headless CMS",
   "main": "lib/index.js",
   "directories": {
     "lib": "lib"
