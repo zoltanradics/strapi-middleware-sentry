@@ -16,17 +16,17 @@ npm i strapi-middleware-sentry -S
 
 ### How to use?
 
-**1.** Add your Sentry configuration to your `config/environments/**/middleware.json` file:
+**1.** Add your Sentry configuration to your `config/middleware.js` file:
 
 > Note: This middleware uses @sentry/node so check out: https://www.npmjs.com/package/@sentry/node for configuration guide.
 
 ```javascript
 {
   // ... more middleware configurations
-  "sentry": {
-    "enabled": true,
-    "settings": {
-      "dsn": "[YOUR-DSN]"
+  sentry: {
+    enabled: true,
+    settings: {
+      dsn: "[YOUR-DSN]"
       // any other Sentry configuration can come here
       // this object will pass into Sentry.init method
     }
