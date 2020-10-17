@@ -58,6 +58,10 @@ npm i strapi-middleware-sentry -S
 strapi.sentry.captureException('Oops, something terribly wrong has happened!')
 ```
 
+### Changelog
+
+- 0.0.9 Update @sentry/node dependency + update README (as Sentry middleware config file has changed)
+
 ### Found any issues?
 
 https://github.com/zoltanradics/strapi-middleware-sentry/issues
