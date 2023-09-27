@@ -37,8 +37,5 @@
   },
   "dependencies": {
     "@sentry/node": "^5.26.0"
-  },
-  "publishConfig": {
-    "registry": "http://registry.npmjs.org/"
   }
 }
