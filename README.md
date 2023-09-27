@@ -1,8 +1,6 @@
 # strapi-middleware-sentry
 
-> _[DEPRECATED]_ This package won't be further maintained, due to the release of the official Sentry plugin for Strapi
-
-You can check out the official plugin here: [https://www.npmjs.com/package/strapi-plugin-sentry](https://www.npmjs.com/package/strapi-plugin-sentry)
+> ☝️ _[DEPRECATED]_ This package won't be further maintained!
 
 **Strapi middleware to use Sentry**
 
